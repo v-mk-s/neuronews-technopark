@@ -14,6 +14,14 @@ pip install -r requirements.txt
 train.sh # plus additional params
 ~~~
 
+# Uninstall
+
+~~~
+# uninstall virtual environment
+deactivate
+rm -r .venv
+~~~
+
 # summarus
 
 [![Tests Status](https://github.com/IlyaGusev/summarus/actions/workflows/python-package.yml/badge.svg)](https://github.com/IlyaGusev/summarus/actions/workflows/python-package.yml)
