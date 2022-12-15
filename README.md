@@ -1,3 +1,19 @@
+# Setup
+
+~~~
+# setup virtual environment
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+~~~
+
+# Train
+
+~~~
+# run train with specific config
+train.sh
+~~~
+
 # summarus
 
 [![Tests Status](https://github.com/IlyaGusev/summarus/actions/workflows/python-package.yml/badge.svg)](https://github.com/IlyaGusev/summarus/actions/workflows/python-package.yml)
