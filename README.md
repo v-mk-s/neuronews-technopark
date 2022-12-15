@@ -1,0 +1,2 @@
+# neuronews-technopark
+Exploratory project
