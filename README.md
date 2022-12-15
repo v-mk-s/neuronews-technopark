@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ~~~
 # run train with specific config
-train.sh
+train.sh # plus additional params
 ~~~
 
 # summarus
